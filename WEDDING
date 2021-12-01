@@ -1,0 +1,33 @@
+function do_wed() {
+var $objections, $vow, $richer, $poorer, $sickness, $health, $a, $b, $i, $f, $r, $register, $details, $kiss;
+if ($objections != true){
+function do_vow() {
+$vow = 1;
+do {
+if ($richer === 1
+&& $poorer === 1
+&& $sickness === 1
+&& $health === 1) {
+function have_hold($a, $b) {
+ini_set('session.gc.maxlifetime', 'forever');
+}
+have_hold('husband', 'wife');
+define('friend', true);
+define('partner', true);
+define('faithful', true);
+if ($i = 'do') {
+$f = 'finger';
+$r = 'ring';
+$f = $f + $r;
+}
+}
+$vow = $vow + 1;
+} while ($vow != 2);
+}
+do_vow();
+$register = array_fill($details);
+print_r($register)
+return $kiss;
+}
+}
+do_wed();
